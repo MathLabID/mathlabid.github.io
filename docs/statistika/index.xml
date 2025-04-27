@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistika on MathLabID</title>
+    <link>https://mathlabid.github.io/docs/statistika/</link>
+    <description>Recent content in Statistika on MathLabID</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Sep 2023 22:37:22 +0100</lastBuildDate>
+    <atom:link href="https://mathlabid.github.io/docs/statistika/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pengenalan Statistika</title>
+      <link>https://mathlabid.github.io/docs/statistika/pengenalan/</link>
+      <pubDate>Sun, 01 Jan 2023 09:00:00 +0000</pubDate>
+      <guid>https://mathlabid.github.io/docs/statistika/pengenalan/</guid>
+      <description>&lt;h2 id=&#34;apa-itu-statistika&#34;&gt;Apa itu Statistika? &lt;a href=&#34;#apa-itu-statistika&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Statistika adalah cabang matematika yang berkaitan dengan pengumpulan, analisis, interpretasi, presentasi, dan organisasi data. Statistika menyediakan metode untuk mengumpulkan informasi yang bermakna dari data dan mengambil kesimpulan.&lt;/p&gt;&#xA;&lt;h2 id=&#34;sejarah-singkat-statistika&#34;&gt;Sejarah Singkat Statistika &lt;a href=&#34;#sejarah-singkat-statistika&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Kata &amp;ldquo;statistika&amp;rdquo; berasal dari bahasa Latin &amp;ldquo;status&amp;rdquo; yang berarti &amp;ldquo;negara&amp;rdquo;. Pada awalnya, statistika digunakan untuk mengumpulkan data demografis dan ekonomi untuk keperluan negara. Statistika modern berkembang pada abad ke-17 dan ke-18 dengan perkembangan teori probabilitas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Distribusi Probabilitas</title>
+      <link>https://mathlabid.github.io/docs/statistika/distribusi-probabilitas/</link>
+      <pubDate>Mon, 03 Jul 2023 22:37:22 +0100</pubDate>
+      <guid>https://mathlabid.github.io/docs/statistika/distribusi-probabilitas/</guid>
+      <description>&lt;h2 id=&#34;pengertian-distribusi-probabilitas&#34;&gt;Pengertian Distribusi Probabilitas &lt;a href=&#34;#pengertian-distribusi-probabilitas&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Distribusi probabilitas adalah model matematis yang menggambarkan probabilitas dari berbagai hasil atau kejadian yang mungkin terjadi dalam suatu percobaan acak. Distribusi probabilitas memberikan gambaran lengkap tentang kemungkinan hasil yang akan terjadi dalam eksperimen statistik.&lt;/p&gt;&#xA;&lt;h2 id=&#34;jenis-jenis-distribusi-probabilitas&#34;&gt;Jenis-jenis Distribusi Probabilitas &lt;a href=&#34;#jenis-jenis-distribusi-probabilitas&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Distribusi probabilitas dapat dikategorikan menjadi dua jenis utama:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Distribusi Probabilitas Diskrit&lt;/strong&gt;: Digunakan untuk variabel acak yang dapat mengambil nilai tertentu dan terpisah (diskrit).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Distribusi Probabilitas Kontinu&lt;/strong&gt;: Digunakan untuk variabel acak yang dapat mengambil nilai dalam suatu interval kontinu.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;distribusi-probabilitas-diskrit&#34;&gt;Distribusi Probabilitas Diskrit &lt;a href=&#34;#distribusi-probabilitas-diskrit&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 id=&#34;1-distribusi-bernoulli&#34;&gt;1. Distribusi Bernoulli &lt;a href=&#34;#1-distribusi-bernoulli&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Distribusi Bernoulli menggambarkan percobaan dengan tepat dua kemungkinan hasil: sukses (1) atau gagal (0).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

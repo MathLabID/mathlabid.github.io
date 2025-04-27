@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geometri on MathLabID</title>
+    <link>https://mathlabid.github.io/docs/geometri/</link>
+    <description>Recent content in Geometri on MathLabID</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Sep 2023 09:00:00 +0700</lastBuildDate>
+    <atom:link href="https://mathlabid.github.io/docs/geometri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pengenalan Geometri</title>
+      <link>https://mathlabid.github.io/docs/geometri/pengenalan/</link>
+      <pubDate>Wed, 10 May 2023 09:00:00 +0700</pubDate>
+      <guid>https://mathlabid.github.io/docs/geometri/pengenalan/</guid>
+      <description>&lt;h2 id=&#34;apa-itu-geometri&#34;&gt;Apa itu Geometri? &lt;a href=&#34;#apa-itu-geometri&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Geometri adalah cabang matematika yang berhubungan dengan bentuk, ukuran, posisi relatif objek, dan sifat ruang. Kata &amp;ldquo;geometri&amp;rdquo; berasal dari bahasa Yunani kuno &amp;ldquo;geo&amp;rdquo; yang berarti bumi dan &amp;ldquo;metron&amp;rdquo; yang berarti pengukuran, sehingga secara harfiah berarti &amp;ldquo;pengukuran bumi&amp;rdquo;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;sejarah-singkat-geometri&#34;&gt;Sejarah Singkat Geometri &lt;a href=&#34;#sejarah-singkat-geometri&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Geometri adalah salah satu cabang matematika tertua, yang berkembang sebagai respons terhadap kebutuhan praktis seperti pengukuran tanah, konstruksi, dan astronomi. Perkembangan signifikan dalam geometri meliputi:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pengukuran dalam Geometri</title>
+      <link>https://mathlabid.github.io/docs/geometri/pengukuran/</link>
+      <pubDate>Mon, 15 May 2023 09:00:00 +0700</pubDate>
+      <guid>https://mathlabid.github.io/docs/geometri/pengukuran/</guid>
+      <description>&lt;h2 id=&#34;pengukuran-dalam-geometri&#34;&gt;Pengukuran dalam Geometri &lt;a href=&#34;#pengukuran-dalam-geometri&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Pengukuran merupakan aspek penting dalam geometri yang memungkinkan kita menentukan ukuran objek geometris, baik itu panjang, luas, maupun volume. Konsep pengukuran memiliki aplikasi praktis dalam kehidupan sehari-hari, dari menghitung luas tanah hingga volume cairan dalam wadah.&lt;/p&gt;&#xA;&lt;h2 id=&#34;pengukuran-panjang&#34;&gt;Pengukuran Panjang &lt;a href=&#34;#pengukuran-panjang&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 id=&#34;satuan-pengukuran-panjang&#34;&gt;Satuan Pengukuran Panjang &lt;a href=&#34;#satuan-pengukuran-panjang&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Satuan dasar pengukuran panjang dalam SI adalah meter (m). Beberapa turunan satuan panjang:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kilometer (km): 1 km = 1.000 m&lt;/li&gt;&#xA;&lt;li&gt;Desimeter (dm): 1 dm = 0,1 m&lt;/li&gt;&#xA;&lt;li&gt;Sentimeter (cm): 1 cm = 0,01 m&lt;/li&gt;&#xA;&lt;li&gt;Milimeter (mm): 1 mm = 0,001 m&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;pengukuran-jarak-antara-titik&#34;&gt;Pengukuran Jarak antara Titik &lt;a href=&#34;#pengukuran-jarak-antara-titik&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Jarak antara dua titik $(x_1, y_1)$ dan $(x_2, y_2)$ dalam bidang koordinat dapat dihitung menggunakan rumus jarak Euclidean:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Geometri Analitik</title>
+      <link>https://mathlabid.github.io/docs/geometri/geometri-analitik/</link>
+      <pubDate>Sat, 20 May 2023 09:00:00 +0700</pubDate>
+      <guid>https://mathlabid.github.io/docs/geometri/geometri-analitik/</guid>
+      <description>&lt;h2 id=&#34;pengertian-geometri-analitik&#34;&gt;Pengertian Geometri Analitik &lt;a href=&#34;#pengertian-geometri-analitik&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Geometri analitik, juga dikenal sebagai geometri koordinat, adalah cabang geometri yang mempelajari bentuk-bentuk geometris menggunakan sistem koordinat dan metode aljabar. Geometri analitik menjembatani hubungan antara aljabar dan geometri melalui sistem koordinat Kartesius.&lt;/p&gt;&#xA;&lt;h2 id=&#34;sistem-koordinat-kartesius&#34;&gt;Sistem Koordinat Kartesius &lt;a href=&#34;#sistem-koordinat-kartesius&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 id=&#34;sistem-koordinat-kartesius-bidang-2d&#34;&gt;Sistem Koordinat Kartesius Bidang (2D) &lt;a href=&#34;#sistem-koordinat-kartesius-bidang-2d&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Sistem koordinat Kartesius bidang terdiri dari dua garis bilangan yang saling tegak lurus:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sumbu horizontal (sumbu-$x$) untuk absis&lt;/li&gt;&#xA;&lt;li&gt;Sumbu vertikal (sumbu-$y$) untuk ordinat&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Setiap titik pada bidang dinyatakan dengan pasangan berurutan $(x, y)$, di mana $x$ adalah jarak titik dari sumbu-$y$ dan $y$ adalah jarak titik dari sumbu-$x$.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trigonometri</title>
+      <link>https://mathlabid.github.io/docs/geometri/trigonometri/</link>
+      <pubDate>Thu, 03 Aug 2023 22:37:22 +0100</pubDate>
+      <guid>https://mathlabid.github.io/docs/geometri/trigonometri/</guid>
+      <description>&lt;h2 id=&#34;pengertian-trigonometri&#34;&gt;Pengertian Trigonometri &lt;a href=&#34;#pengertian-trigonometri&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Trigonometri adalah cabang matematika yang mempelajari hubungan antara sisi dan sudut segitiga, khususnya segitiga siku-siku. Kata trigonometri berasal dari bahasa Yunani, &amp;ldquo;trigonon&amp;rdquo; yang berarti segitiga dan &amp;ldquo;metron&amp;rdquo; yang berarti ukuran.&lt;/p&gt;&#xA;&lt;h2 id=&#34;fungsi-trigonometri-dasar&#34;&gt;Fungsi Trigonometri Dasar &lt;a href=&#34;#fungsi-trigonometri-dasar&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Dalam segitiga siku-siku dengan sudut $\small \theta$, terdapat enam fungsi trigonometri dasar:&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-sinus-sin&#34;&gt;1. Sinus (sin) &lt;a href=&#34;#1-sinus-sin&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;$$\small \sin \theta = \frac{\text{sisi depan}}{\text{sisi miring}}$$&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-kosinus-cos&#34;&gt;2. Kosinus (cos) &lt;a href=&#34;#2-kosinus-cos&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;$$\small \cos \theta = \frac{\text{sisi samping}}{\text{sisi miring}}$$&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

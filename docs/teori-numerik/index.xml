@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teori Numerik on MathLabID</title>
+    <link>https://mathlabid.github.io/docs/teori-numerik/</link>
+    <description>Recent content in Teori Numerik on MathLabID</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2023 09:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mathlabid.github.io/docs/teori-numerik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pengenalan Teori Numerik</title>
+      <link>https://mathlabid.github.io/docs/teori-numerik/pengenalan/</link>
+      <pubDate>Sun, 01 Jan 2023 09:00:00 +0000</pubDate>
+      <guid>https://mathlabid.github.io/docs/teori-numerik/pengenalan/</guid>
+      <description>&lt;h2 id=&#34;apa-itu-teori-numerik&#34;&gt;Apa itu Teori Numerik? &lt;a href=&#34;#apa-itu-teori-numerik&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Teori numerik, juga dikenal sebagai analisis numerik, adalah cabang matematika yang berfokus pada algoritma yang menggunakan pendekatan numerik untuk masalah analisis matematika, alih-alih manipulasi simbolik.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tujuan-teori-numerik&#34;&gt;Tujuan Teori Numerik &lt;a href=&#34;#tujuan-teori-numerik&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Tujuan utama teori numerik adalah untuk menemukan algoritma yang memberikan pendekatan numerik terhadap masalah matematika yang kompleks dengan tingkat akurasi yang dapat diterima dan efisien secara komputasi.&lt;/p&gt;&#xA;&lt;h2 id=&#34;konsep-dasar-teori-numerik&#34;&gt;Konsep Dasar Teori Numerik &lt;a href=&#34;#konsep-dasar-teori-numerik&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;Aproksimasi dan Error&lt;/li&gt;&#xA;&lt;li&gt;Stabilitas Numerik&lt;/li&gt;&#xA;&lt;li&gt;Metode Iteratif&lt;/li&gt;&#xA;&lt;li&gt;Integrasi dan Diferensiasi Numerik&lt;/li&gt;&#xA;&lt;li&gt;Solusi Numerik untuk Persamaan Diferensial&lt;/li&gt;&#xA;&lt;li&gt;Interpolasi dan Ekstrapolasi&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;aplikasi-teori-numerik&#34;&gt;Aplikasi Teori Numerik &lt;a href=&#34;#aplikasi-teori-numerik&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Teori numerik memiliki aplikasi yang luas dalam:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

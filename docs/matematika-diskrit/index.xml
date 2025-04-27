@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matematika Diskrit on MathLabID</title>
+    <link>https://mathlabid.github.io/docs/matematika-diskrit/</link>
+    <description>Recent content in Matematika Diskrit on MathLabID</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2023 09:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mathlabid.github.io/docs/matematika-diskrit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pengenalan Matematika Diskrit</title>
+      <link>https://mathlabid.github.io/docs/matematika-diskrit/pengenalan/</link>
+      <pubDate>Sun, 01 Jan 2023 09:00:00 +0000</pubDate>
+      <guid>https://mathlabid.github.io/docs/matematika-diskrit/pengenalan/</guid>
+      <description>&lt;h2 id=&#34;apa-itu-matematika-diskrit&#34;&gt;Apa itu Matematika Diskrit? &lt;a href=&#34;#apa-itu-matematika-diskrit&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Matematika diskrit adalah cabang matematika yang mempelajari struktur diskrit, yang berbeda dengan struktur kontinu dalam kalkulus. Struktur diskrit terdiri dari objek-objek yang terpisah dan tidak kontinu.&lt;/p&gt;&#xA;&lt;h2 id=&#34;relevansi-matematika-diskrit&#34;&gt;Relevansi Matematika Diskrit &lt;a href=&#34;#relevansi-matematika-diskrit&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Matematika diskrit menjadi semakin penting di era digital karena komputer bekerja dengan informasi diskrit. Hal ini menjadikan matematika diskrit sebagai fondasi bagi ilmu komputer dan teknologi informasi.&lt;/p&gt;&#xA;&lt;h2 id=&#34;konsep-dasar-matematika-diskrit&#34;&gt;Konsep Dasar Matematika Diskrit &lt;a href=&#34;#konsep-dasar-matematika-diskrit&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;Teori Himpunan&lt;/li&gt;&#xA;&lt;li&gt;Logika dan Pembuktian&lt;/li&gt;&#xA;&lt;li&gt;Relasi dan Fungsi&lt;/li&gt;&#xA;&lt;li&gt;Teori Graf&lt;/li&gt;&#xA;&lt;li&gt;Kombinatorika&lt;/li&gt;&#xA;&lt;li&gt;Teori Bilangan&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;aplikasi-matematika-diskrit&#34;&gt;Aplikasi Matematika Diskrit &lt;a href=&#34;#aplikasi-matematika-diskrit&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Matematika diskrit memiliki aplikasi yang luas dalam:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
